@@ -6,7 +6,6 @@ body{
     background: #000000;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
-    overflow-y: hidden;
     overflow-x: hidden;
 }
 .profile{
