@@ -54,12 +54,12 @@ body{
     .profile{
         width: 80%;
     }
+    .about{
+        width: 80%;
+    }
 }
 @media screen and (max-width: 430px){
     .aboutMe li{
         font-size: 1.1em;
-    }
-    .about{
-        width: 80%;
     }
 }
